@@ -51,3 +51,16 @@ Os itens 14 e 15 são documentos de curadoria, não aulas gravadas.
 Apenas a aula 05 foi lida integralmente e revisada. Os demais dossiês têm
 estrutura idêntica e provavelmente compartilham os mesmos defeitos —
 ver `aulas/05-epas-na-graduacao/auditoria-do-dossie.md`. Verificação pendente.
+
+## Perdas confirmadas
+
+O acervo **não está completo**. Ver `acervo/PERDAS.md` para o levantamento.
+Em resumo:
+
+- Os PDFs de slides são de dois tipos: alguns têm camada de texto (deck real,
+  com referências), outros são só imagem. Isso muda o que se pode extrair de
+  cada aula.
+- A aula 05 tem 43 slides citados no dossiê para 40 páginas de imagem, e os
+  primeiros 10 minutos da sessão estão ausentes.
+- Material de EPA e de ten Cate está disperso: ele também integra a aula 01, e
+  a aula 02 traz uma EPA operacionalizada para IA generativa.
