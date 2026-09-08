@@ -20,7 +20,18 @@ capturas sem texto algum, em que cada página retorna vazia.
 | `03_slides.pdf` | ✅ texto real | deck completo, com contatos dos autores |
 | `04_slides.pdf` | ❌ só imagem | 28 páginas vazias de texto |
 | `05_slides.pdf` | ❌ só imagem | 40 páginas vazias de texto |
-| `06` a `13_slides.pdf` | ? | **não verificado** |
+| `06_slides.pdf` | ✅ texto real | conteúdo parcial — ver achado 6 |
+| `07_slides.pdf` | ❌ só imagem | 69 páginas |
+| `08_slides.pdf` | ❌ só imagem | 63 páginas |
+| `09_slides.pdf` | ❌ só imagem | 71 páginas |
+| `10_slides.pdf` | ✅ texto real | deck completo, múltiplas comunicações |
+| `11_slides.pdf` | ❌ só imagem | 98 páginas |
+| `12_slides.pdf` | ✅ texto real | **truncado — ver achado 6** |
+| `13_slides.pdf` | ✅ texto real | **perda quase total — ver achado 6** |
+
+Inventário fechado em 08/09/2026. Seis aulas em imagem pura (04, 05, 07, 08,
+09, 11) e sete com alguma camada de texto (01, 02, 03, 06, 10, 12, 13) — mas
+"ter texto" não significa "estar completo", como mostra o achado 6.
 
 **Consequência.** Onde há camada de texto, é possível extrair o conteúdo real
 do slide — o que o palestrante escreveu, não o que a transcrição do áudio
@@ -122,9 +133,67 @@ item mais imediatamente aplicável de todo o acervo.
 
 ---
 
+---
+
+## Achado 6 — a perda mais grave está nas plenárias
+
+O inventário revelou que duas aulas têm slides praticamente inexistentes,
+apesar de terem os maiores vídeos do acervo.
+
+### Aula 13 — Cerimônia de abertura e plenária Ronald Harden
+
+Vídeo de **872 MB**, o maior do acervo. O `13_slides.pdf` tem **168 KB** e
+contém **apenas material de marca da AMEE**: o logotipo, a nova identidade
+visual e os selos "Proud to be an AMEE Member / Fellow / Life Member /
+Retired Member / Student Member / Institutional Member".
+
+**Não há um único slide de conteúdo.** A plenária de Ronald Harden — figura
+central da educação médica e fundador da AMEE — está sem slides. O vídeo
+existe; o material projetado, não.
+
+### Aula 12 — Plenária de encerramento
+
+Vídeo de **743 MB**, o segundo maior. O `12_slides.pdf` tem **754 KB** e cerca
+de sete slides: um "THANK YOU", o tema do congresso ("Educators as Catalysts:
+Building the Future of Health"), um marcador "Three Themes of Reflection", um
+slide sobre o Planetary Health Report Card e o encerramento "What endures,
+what evolves? Reimagining Health Professions Education".
+
+São os slides de moldura da sessão. O conteúdo das falas não está.
+
+### Aula 06 — Educação baseada em simulação
+
+Vídeo de **352 MB**, o menor. Os slides trazem duas comunicações curtas
+identificáveis: *The Harold Handoff* (viés cognitivo em passagens de plantão,
+Universidade do Missouri) e *Residents as Educators: Virtual Clinical
+Simulation* (Tecnológico de Monterrey). Cobertura possivelmente parcial em
+relação ao que o título do dossiê promete.
+
+---
+
+## Achado 7 — os PDFs de slides são capturas, não os decks originais
+
+O padrão que explica tudo. Em `10_slides.pdf` aparecem, no texto extraído,
+elementos da **interface do PowerPoint** do apresentador: *"AutoSave"*,
+*"Home Insert Draw Design Transitions Animations"*, *"Slide 1 of 12"*,
+*"Accessibility: Investigate"*, *"Notes  Comments"*, *"122%"*. Em
+`06_slides.pdf` aparece *"www.canva.com — To exit full screen, press esc"* e
+marcadores de paginação do Canva (*"1/10"*, *"4/10"*).
+
+Ou seja: estes arquivos foram montados a partir da **tela compartilhada
+durante a sessão**, não dos arquivos originais entregues pelos palestrantes.
+Onde o compartilhamento era de um PDF ou documento nativo, o texto sobreviveu;
+onde era vídeo ou imagem, restou só o pixel.
+
+Isso muda a natureza do problema. Não há como "recuperar" os slides faltantes
+a partir deste acervo — eles nunca foram capturados. As rotas possíveis são
+OCR sobre as imagens existentes, ou obter os decks originais junto à AMEE.
+
+---
+
 ## Verificações pendentes
 
-- [ ] Camada de texto nos slides 06 a 13
+- [x] ~~Camada de texto nos slides 06 a 13~~ — concluído
 - [ ] Duração real do vídeo 05 (há perda no final?)
 - [ ] Nos dossiês 01–03, o texto real do slide foi usado ou ignorado?
 - [ ] Contagem de slides do dossiê versus páginas do PDF, nas demais aulas
